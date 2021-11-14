@@ -1,11 +1,5 @@
 # Differential-Expression-Analysis
 
-## Table of Content 
-- General Info
-- Dataset 
-- Technologies 
-- Setup
-
 ## General Info
 DESeq2, edgeR and NOISeq are three tools used for differential expression analysis. The DESeq2, edgeR and NOISeq folders contains R scripts to perform DE analyses with the specific tools.
 
@@ -26,10 +20,10 @@ we used RStudio to run all the R scripts, and Jupyter Notebook to run python scr
 ## Setup
 To run the R-scripts install r-studio(4.1.1)
 install 
---NOIseq-2.36.0
---edgeR_3.34.1
---Dseq2-1.32
---Jupyterlab
+- NOIseq-2.36.0
+- edgeR_3.34.1
+- DESeq2-1.32
+- Jupyterlab
 
 
 
