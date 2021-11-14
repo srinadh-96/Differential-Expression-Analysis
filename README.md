@@ -18,8 +18,8 @@ The Python script is used to calculate the accuracy of the identified differenti
 we used RStudio to run all the R scripts, and Jupyter Notebook to run python scripts and plot the graphs
 
 ## Setup
-To run the R-scripts install r-studio(4.1.1)
-install 
+To run the R-scripts install the following packages:
+- RStudio(4.1.1)
 - NOIseq-2.36.0
 - edgeR_3.34.1
 - DESeq2-1.32
